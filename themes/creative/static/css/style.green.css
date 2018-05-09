@@ -324,9 +324,7 @@ fieldset[disabled] .btn-white.active {
 SIDEBAR + RIGHT COLUMN
 =====================
 */
-#sidebar {
-  padding-top: 40px;
-}
+
 /*modified sidebar to follow scroll */
 .sidebar-content {
     position: fixed;
@@ -334,12 +332,7 @@ SIDEBAR + RIGHT COLUMN
     z-index: 0;
     padding: 0 1em 0 0.2em;
 }
-@media screen and (min-width: 992px) {
-  .sidebar-content {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
+
 .sidebar-heading {
   font-size: 18px;
   text-transform: uppercase;
@@ -674,16 +667,6 @@ COPYRIGHT
 .copyright p.credit a {
   color: #8ce2b1;
 }
-@media (max-width: 991px) {
-  .copyright p.credit {
-    text-align: center !important;
-  }
-}
-@media (max-width: 991px) {
-  .copyright {
-    text-align: center !important;
-  }
-}
 /*
 =====================
 MAIN PORTFOLIO SLIDER
@@ -835,10 +818,7 @@ a:active {
 .ekko-lightbox .modal-footer {
   text-align: left;
 }
-.grid {
-  margin-right: -15px;
-  margin-left: -15px;
-}
+
 .box-masonry {
   background: #198347;
   margin-bottom: 30px;
