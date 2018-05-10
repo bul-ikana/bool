@@ -1,48 +1,22 @@
 ---
 title: "Hi"
 date: 2018-05-08T13:54:36-05:00
-draft: true
+draft: false
 showonlyimage: false
-image: "kirby.jpg"
 ---
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-<!--more-->
+Hi! I am Hugo Aguirre, and this is my blog. 
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Not my first blog, though. I have tried many times having a blog but I really never found the motivation to keep writing. So, what's different this time? Not much really. I just think that a blog is not about how frequent are the post, but about how relevant are the posts in it. So instead of making a goal of mine writing at least once a week or some stuff like that, I'll write whenever there is something relevant to write about. It may take months, or maybe just a couple of days. That is not the point really. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+## So, who is writing?
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+I'm Hugo. I have been developing software since 2009, when I started coding _profesionally_ on ActionScript 3.0 (Yeah, flash). I started coding as a hobby and as school assignments a bit earlier, but nothing serious, aside some final projects made on Visual Basic 6.0 and that kind of stuff.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Right now I consider myself a full stack software developer, engineer and craftsman. In this years I have worked with a bunch of technologies, languages, platforms and frameworks. I have worked mostly in backend, but also in frontend, mobile and videogames. Aside from coding, I also do a fair amount of sysadmin and a lot of project management.
 
-## Header Level 2
+## Neat, so what will you write about?
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Mostly about projects good enough to be written about. Projects that are big enough, non-trivial, and not behind an NDA. This means they may not be that much, but anyways. So this will be a kind of a portfolio / blog mashup.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
-
-{{< highlight css >}}
-div.ex1 {
-    overflow: scroll;
-}
-
-div.ex2 {
-    overflow: hidden;
-}
-
-div.ex3 {
-    overflow: auto;
-}
-
-div.ex4 {
-    overflow: visible;
-}
-{{< / highlight >}}
+So, thank you for reading!
