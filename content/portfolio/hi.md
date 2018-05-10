@@ -6,6 +6,7 @@ showonlyimage: false
 ---
 
 Hi! I am Hugo Aguirre, and this is my blog. 
+<!--more-->
 
 Not my first blog, though. I have tried many times having a blog but I really never found the motivation to keep writing. So, what's different this time? Not much really. I just think that a blog is not about how frequent are the post, but about how relevant are the posts in it. So instead of making a goal of mine writing at least once a week or some stuff like that, I'll write whenever there is something relevant to write about. It may take months, or maybe just a couple of days. That is not the point really. 
 
