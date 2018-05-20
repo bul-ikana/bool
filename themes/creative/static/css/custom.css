@@ -26,6 +26,17 @@ h1.small-navbar-heading {
   padding-top: 40px;
 }
 
+.stack-icons {
+  text-align: center; 
+}
+
+.stack-icons img {
+  max-width: 40px;
+  max-height: 40px;
+  margin: 0 15px 20px 0px;
+  display: inline-block;
+}
+
 @media screen and (max-width: 767px) {
   .content-column {
     padding-left: 30px;
