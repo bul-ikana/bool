@@ -3,7 +3,7 @@ title: "VGCStats"
 date: 2018-05-10T13:47:36-05:00
 draft: false
 showonlyimage: false
-image: "vgcstats.png"
+image: "/vgcstats.png"
 ---
 
 A website that gathers statistics about the Pokémon used in official tournaments of the Pokémon Videogame Championship. 
