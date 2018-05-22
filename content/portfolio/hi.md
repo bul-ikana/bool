@@ -3,7 +3,7 @@ title: "Hi"
 date: 2018-05-08T13:54:36-05:00
 draft: false
 showonlyimage: false
-weight: 999
+weight: 1
 ---
 
 Hi! I am **Hugo Aguirre**, and this is my blog. 
