@@ -37,6 +37,16 @@ h1.small-navbar-heading {
   display: inline-block;
 }
 
+.box-masonry-description p:first-of-type {
+  margin: 0;
+}
+
+small {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
 @media screen and (max-width: 767px) {
   .content-column {
     padding-left: 20px;
