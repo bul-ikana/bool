@@ -16,4 +16,4 @@ I have been developing software since 2009, when I started coding _profesionally
 
 Outside software, I enjoy videogames a lot. Pokémon is of my favorite games as you may have noticed. I also like to read about epistemology. Ultimately, developing software is also a matter of understanding knowledge.
 
-Somethimes I go as _bool_ or _bul_, you can calle that. Hugo is fine too. Thank you for visiting my site. I hope you find something interesting.
+Somethimes I go as _bool_ or _bul_, you can call me that. Hugo is fine too. Thank you for visiting my site. I hope you find something interesting.
