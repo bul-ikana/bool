@@ -7,7 +7,7 @@ image: "/vgcstats.png"
 weight: 100
 ---
 
-A website that gathers statistics about the Pokémon used in official tournaments of the Pokémon Videogame Championship. 
+A website that gathers statistics about Pokémon used in official tournaments of the Pokémon Videogame Championship. 
 
 <!--more-->
 

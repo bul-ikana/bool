@@ -21,7 +21,7 @@ And this noise, is always coming back. We think we go through it with a purpose,
 
 ---
 
-You can test thi piece of digital interaction it in [itch.io](https://bul-ikana.itch.io/soothe) and [Github pages](https://bul-ikana.github.io/soothe/)
+You can test this piece of digital interaction it in [itch.io](https://bul-ikana.itch.io/soothe) and [Github pages](https://bul-ikana.github.io/soothe/)
 
 ### About
 
