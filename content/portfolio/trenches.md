@@ -2,7 +2,7 @@
 title: "Trenches"
 date: 2018-05-08T13:54:36-05:00
 draft: false
-image: "/trenches.png"
+image: "/headers/trenches.png"
 showonlyimage: false
 weight: 400
 ---
@@ -11,7 +11,7 @@ Get all the treasures from the deep of the ocean. But be careful how long you st
 
 <!--more-->
 
-![](/trenches.png)
+![](/headers/trenches.png)
 
 You can check the game in [itch.io](https://bul-ikana.itch.io/trenches) or in [Github pages](https://bul-ikana.github.io/trenches/).
 
@@ -24,7 +24,7 @@ Trenches was developed for the [Mini jam 3rd Edition](https://itch.io/jam/mini-j
 ### How is it made?
 
 <div class="stack-icons">
-	<img src="/construct2.svg">
+	<img src="/icons/construct2.svg">
 </div>
 
 Developed using [Construct2](https://www.scirra.com/construct2). Art by [King.exe](https://kingexe.itch.io/). Music by [Eric Skiff](https://ericskiff.com/).

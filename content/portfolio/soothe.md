@@ -2,7 +2,7 @@
 title: "Soothe"
 date: 2018-05-08T13:54:36-05:00
 draft: false
-image: "/soothe.png"
+image: "/headers/soothe.png"
 showonlyimage: false
 weight: 500
 ---
@@ -11,7 +11,7 @@ Our digital life.
 
 <!--more-->
 
-![](/soothe01.png)
+![](/content/soothe01.png)
 
 This is our digital life.
 
@@ -38,8 +38,8 @@ A game jam encouraging the production of digital garbage products.
 
 ### How is it made?
 <div class="stack-icons">
-	<img src="/construct2.svg">
-	<img src="/github.svg">
+	<img src="/icons/construct2.svg">
+	<img src="/icons/github.svg">
 </div>
 
 Developed using [Construct2](https://www.scirra.com/construct2), and hosted in github pages.

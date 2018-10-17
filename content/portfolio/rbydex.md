@@ -3,8 +3,8 @@ title: "RBYDex"
 date: 2018-05-10T13:47:36-05:00
 draft: false
 showonlyimage: false
-image: "/rbydex.png"
-weight: 200
+image: "/headers/rbydex.png"
+weight: 300
 ---
 
 An app to keep track of your in-game Pokédex in the red, blue and yellow versions of the Pokémon game. 
@@ -17,14 +17,14 @@ An app to keep track of your in-game Pokédex in the red, blue and yellow versio
 
 I am a big fan of the Pokémon games. I got a game boy color and the blue version in 1998, and since then, I have played each new generation of games whenever it comes out. Each new version of the game brings great improvements to the series. Right now, we are on the seventh generation, and a lot of things have changed for the better.
 
-![](/rbydex01.png)
+![](/content/rbydex01.png)
 <small>The Pokémon games have changed a lot in more than 20 years</small>
 
 As a fan of the games, it has been an incredible journey. So great, that sometimes you start to forget how much certain things have improved. On February 2016, the first generation of the games (blue, red and yellow) were released again, but this time for the Nintendo 3DS. Playing this games again after so many years was such a nostalgia shot, for a while. After a few hours playing the game, it started becoming annoying. The first generation of the games is not only [the generation with more glitches and bugs](https://bulbapedia.bulbagarden.net/wiki/List_of_glitches_in_Generation_I), but it also missed very important features.
 
 One of that features was an UX improvement introduced in the second generation. Whenever you battled a wild Pokémon, a handy indicator was shown next to the Pókemon name if you have already caught that Pokémon before. This may sound trivial, but having _"Gotta catch 'em all"_ as one of the goals of the game, it was extremely useful knowing if you already have caught that Pokémon before or not.
 
-![](/rbydex02.png)
+![](/content/rbydex02.png)
 <small>This little pokeball indicator tells you if you already have caught that Pókemon when you find one in the wild</small>
 
 The first generation of the games lacked this feature, so you basically had to learn by heart which ones you already had. When I was a kid, I wrote them in a notebook. But I have grown, and I got skills. It came to me.
@@ -40,11 +40,11 @@ The app was exactly what I needed, and helped me not just finishing the game (wh
 ## So, how is the app made?
 
 <div class="stack-icons">
-	<img src="/android.svg">
-	<img src="/cordova.svg">
-	<img src="/ionic.svg">
-	<img src="/angular.svg">
-	<img src="/js.svg">
+	<img src="/icons/android.svg">
+	<img src="/icons/cordova.svg">
+	<img src="/icons/ionic.svg">
+	<img src="/icons/angular.svg">
+	<img src="/icons/js.svg">
 </div>
 
 The app was made using [ionic v1](https://ionicframework.com/docs/v1/). This version of ionic still used AngularJS 1.5. I built this app only for Android even though Ionic and Cordova make it very easy to deploy to iOS too. I have a windows machine and I develop in linux, so I had no apple computer at hand to release it to iOS.
