@@ -3,7 +3,7 @@ title: "RBYDex"
 date: 2018-05-10T13:47:36-05:00
 draft: false
 showonlyimage: false
-image: "/rbydex.png"
+image: "/headers/rbydex.png"
 weight: 300
 ---
 

@@ -2,7 +2,7 @@
 title: "Soothe"
 date: 2018-05-08T13:54:36-05:00
 draft: false
-image: "/soothe.png"
+image: "/headers/soothe.png"
 showonlyimage: false
 weight: 500
 ---

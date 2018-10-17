@@ -2,7 +2,7 @@
 title: "Hugo Cards"
 date: 2018-10-13
 draft: false
-image: "/hugo-cards.png"
+image: "/headers/hugo-cards.png"
 showonlyimage: false
 weight: 110
 ---

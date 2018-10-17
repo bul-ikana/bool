@@ -2,7 +2,7 @@
 title: "VGCStats Articles"
 date: 2018-10-13
 draft: false
-image: "/articles.png"
+image: "/headers/articles.png"
 showonlyimage: false
 weight: 101
 ---
