@@ -18,7 +18,7 @@ One feature we wanted to offer was having a section with articles, team reports,
 
 Team reports are important for the Pokémon competitive community. They not only show in detail the team used to get a top placing in the tournament. They also give great insights in the strategy and mindset of the player piloting that team. Team reports help new players and veternas alike, so hosting them in VGCStats makes the site an even better tool for the community.
 
-![](/articles01.png)
+![](/content/articles01.png)
 
 ## So, how is the site made?
 

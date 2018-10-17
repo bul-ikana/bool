@@ -18,7 +18,7 @@ LeafBook is a simple app to take notes. You can create any book by name and add 
 
 I made this out of the sheer necessity of having a simple way to share links and other stuff (like pokemon team pastes) in many devices without having to login into any account. 
 
-![](/leafbook01.png)
+![](/content/leafbook01.png)
 
 ## So, how is the site made?
 

@@ -11,7 +11,7 @@ Get all the treasures from the deep of the ocean. But be careful how long you st
 
 <!--more-->
 
-![](/trenches.png)
+![](/headers/trenches.png)
 
 You can check the game in [itch.io](https://bul-ikana.itch.io/trenches) or in [Github pages](https://bul-ikana.github.io/trenches/).
 

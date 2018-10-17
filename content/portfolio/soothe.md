@@ -11,7 +11,7 @@ Our digital life.
 
 <!--more-->
 
-![](/soothe01.png)
+![](/content/soothe01.png)
 
 This is our digital life.
 

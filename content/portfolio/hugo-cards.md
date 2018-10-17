@@ -16,7 +16,7 @@ For a second I thought making the articles section using Jekyll, but I am really
 
 The porting was a very straightforward process. All functionaly found in the original theme was successfully ported.
 
-![](/hugo-cards01.png)
+![](/content/hugo-cards01.png)
 
 I submitted the theme to the official Hugo theme list and it was accepted, so you can find it [there](https://themes.gohugo.io/hugo-cards/).
 

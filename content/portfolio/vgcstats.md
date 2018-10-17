@@ -17,14 +17,14 @@ A website that gathers statistics about official tournaments of the Pokémon Vid
 
 Yes. Believe it or not, Pokémon is more than the japanese cartoon than moved the whole world in the 90's. Pokémon started as a videogame in 1996, and one of the things that made this videogame so popular was the ability to challenge your friends to a Pokemón battle. In 2009, the first world championship of Pokémon battles was held in San Diego, California, way before esports were even a thing. After that, it has been held each year in different cities. In 2017, more than 900 people from more than 40 countries gathered in Anaheim, California looking for the World Champion title.
 
-![](/vgcstats01.jpg)
+![](/content/vgcstats01.jpg)
 <small>The 2017 Pokémon World Champions. Photo by [Nintendo Insider](https://www.nintendo-insider.com/new-world-champions-triumph-at-the-2017-pokemon-world-championships/).</small>
 
 To qualify to the world championship, players must earn Championship Points throughout the year playing in different official events all around the world. Each year, the ruleset for the battles are different. This may change because a new version of the game was released, or just because some rules were added to make the game more balanced, more exciting or simply for marketing reasons. This means, every season has its own flavor. And making a team of 6 Pokémon out of the 807 currently available while considering these rulesets may seem like something impossible. That is where VGCStats comes. 
 
 VGCStats is a database of which pokemon are being used in official tournaments, and how well they are doing. Its main feature is showing how many championship points players have earned using that particular Pokémon. It also shows the standings for each official tournament and which teams were used by each of the players. There is also an option to add VODs, or Videos On Demand, so players can actually watch the matches of that tournament.
 
-![](/vgcstats02.jpg)
+![](/content/vgcstats02.jpg)
 <small>The top four pokemon, as of May 19th, 2018</small>
 
 This project has been helpful to players which use it to build their teams and be prepared for whatever they could find in other teams (watch PokeAlex, one of the top players from Spain, [ <i class="fa fa-youtube-play"></i>talking about the website](https://www.youtube.com/watch?v=hk4FntlUHDw])), for streamers ([<i class="fa fa-twitter"></i>This is a tweet](https://twitter.com/NBDwee/status/972594234006974464) from Duy Ha, a Pokémon Video Game commentator) and even for press (Game Haus made an article [using stats from our website](https://thegamehaus.com/youre-not-running-porygon2-plus-araquanid-youre-throwing-duos-newfound-success-2018/2018/04/14/). This is the first of [many](https://thegamehaus.com/mega-aerodactyl-went-from-0-championship-points-to-over-700-in-one-day/2018/04/24/))
