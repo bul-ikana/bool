@@ -7,7 +7,7 @@ showonlyimage: false
 weight: 1
 ---
 
-Hi! I am **Hugo Aguirre**, and this is a showcase of some of my work. 
+I am **Hugo Aguirre**. This is a showcase of some of my work. 
 <!--more-->
 
 I am a **full stack software developer, engineer and craftsman** from Puebla, Mexico. 
