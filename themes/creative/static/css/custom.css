@@ -37,7 +37,7 @@ h1.small-navbar-heading {
   display: inline-block;
 }
 
-.box-masonry-description p:first-of-type {
+.box-masonry-description p {
   margin: 0;
 }
 

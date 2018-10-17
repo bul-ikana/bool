@@ -23,9 +23,9 @@ Team reports are important for the Pokémon competitive community. They not only
 ## So, how is the site made?
 
 <div class="stack-icons">
-	<img src="/hugo.svg">
-	<img src="/bootstrap.svg">
-	<img src="/netlify.svg">
+	<img src="/icons/hugo.svg">
+	<img src="/icons/bootstrap.svg">
+	<img src="/icons/netlify.svg">
 </div>
 
 The articles section is different from the site itself. The articles section is an static site generated using [Hugo](https://gohugo.io/), and hosted in [Netlify](https://www.netlify.com/). The theme is independent and it is added as a submodule.

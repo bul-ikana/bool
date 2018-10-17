@@ -38,8 +38,8 @@ A game jam encouraging the production of digital garbage products.
 
 ### How is it made?
 <div class="stack-icons">
-	<img src="/construct2.svg">
-	<img src="/github.svg">
+	<img src="/icons/construct2.svg">
+	<img src="/icons/github.svg">
 </div>
 
 Developed using [Construct2](https://www.scirra.com/construct2), and hosted in github pages.

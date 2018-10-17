@@ -42,11 +42,11 @@ I made a prototype in a night and the next day I was slipping into his DMs sendi
 ## So, how is the site made?
 
 <div class="stack-icons">
-	<img src="/sheets.svg">
-	<img src="/vue.svg">
-	<img src="/js.svg">
-	<img src="/bootstrap.svg">
-	<img src="/github.svg">
+	<img src="/icons/sheets.svg">
+	<img src="/icons/vue.svg">
+	<img src="/icons/js.svg">
+	<img src="/icons/bootstrap.svg">
+	<img src="/icons/github.svg">
 </div>
 
 All the data lives in a Google spreadsheet. Pokémon, teams, events, players, everything is there. There is no further backend involved. All ETL of the data is made client-side using ES6 functions like map, reduce and filter. 

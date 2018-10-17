@@ -40,11 +40,11 @@ The app was exactly what I needed, and helped me not just finishing the game (wh
 ## So, how is the app made?
 
 <div class="stack-icons">
-	<img src="/android.svg">
-	<img src="/cordova.svg">
-	<img src="/ionic.svg">
-	<img src="/angular.svg">
-	<img src="/js.svg">
+	<img src="/icons/android.svg">
+	<img src="/icons/cordova.svg">
+	<img src="/icons/ionic.svg">
+	<img src="/icons/angular.svg">
+	<img src="/icons/js.svg">
 </div>
 
 The app was made using [ionic v1](https://ionicframework.com/docs/v1/). This version of ionic still used AngularJS 1.5. I built this app only for Android even though Ionic and Cordova make it very easy to deploy to iOS too. I have a windows machine and I develop in linux, so I had no apple computer at hand to release it to iOS.

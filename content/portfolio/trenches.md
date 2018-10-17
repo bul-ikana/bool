@@ -24,7 +24,7 @@ Trenches was developed for the [Mini jam 3rd Edition](https://itch.io/jam/mini-j
 ### How is it made?
 
 <div class="stack-icons">
-	<img src="/construct2.svg">
+	<img src="/icons/construct2.svg">
 </div>
 
 Developed using [Construct2](https://www.scirra.com/construct2). Art by [King.exe](https://kingexe.itch.io/). Music by [Eric Skiff](https://ericskiff.com/).

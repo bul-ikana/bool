@@ -23,10 +23,10 @@ I made this out of the sheer necessity of having a simple way to share links and
 ## So, how is the site made?
 
 <div class="stack-icons">
-	<img src="/laravel.svg">
-	<img src="/vue.svg">
-	<img src="/bootstrap.svg">
-	<img src="/netlify.svg">
+	<img src="/icons/laravel.svg">
+	<img src="/icons/vue.svg">
+	<img src="/icons/bootstrap.svg">
+	<img src="/icons/netlify.svg">
 </div>
 
 The site is a Single Page application made on Vue. The backend is a simple API made on Laravel. It uses Vuex to manage state, and severla other utility libraries. You can check more of it in the [project repo](https://github.com/bul-ikana/leafbook). 
