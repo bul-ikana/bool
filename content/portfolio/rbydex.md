@@ -4,7 +4,7 @@ date: 2018-05-10T13:47:36-05:00
 draft: false
 showonlyimage: false
 image: "/rbydex.png"
-weight: 200
+weight: 300
 ---
 
 An app to keep track of your in-game Pokédex in the red, blue and yellow versions of the Pokémon game. 
