@@ -1,0 +1,43 @@
+/*
+  main background: 198347
+  white background: 1AA255;
+  highlight: d0f3df;
+  text: 8ce2b1;
+  post-test: ABE7C3;
+*/
+
+// Colors
+$dark:        #333;
+$light:       #eee;
+$text-dark:   #eee;
+$text-light:  #333;
+
+$dark-green:  #198347;
+$light-green: #1AA255;
+$mint:        #8ce2b1;
+$clear-mint:  #ABE7C3;
+$white-green: #d0f3df;
+
+// Elements
+$sidebar:       $dark-green;
+$background:    $light-green;
+$sidebar-text:  $mint;
+$content-text:  $clear-mint;
+
+body {
+  color: $sidebar-text;
+  background-color: $sidebar;
+}
+
+.sidebar-p {
+  color: $sidebar-text;
+}
+
+.content-column.white-background {
+  background: $background;
+}
+
+.content-column-content p,
+.content-column-content li {
+  color: $clear-mint;
+}
