@@ -21,5 +21,16 @@ $roboto:  "Roboto", Helvetica, Arial, sans-serif;
 
 .content-column-content p,
 .content-column-content li {
+  margin-top: 35px;
+  margin-bottom: 35px;
+
+  font-size: 17px;
+  line-height: 1.9;
   font-family: $lato;
+  letter-spacing: .7px;
+}
+
+.content-column-content blockquote p {
+  margin: 0;
+  font-size: 18px;
 }

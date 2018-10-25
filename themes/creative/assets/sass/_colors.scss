@@ -1,11 +1,3 @@
-/*
-  main background: 198347
-  white background: 1AA255;
-  highlight: d0f3df;
-  text: 8ce2b1;
-  post-test: ABE7C3;
-*/
-
 // Colors
 $dark:        #333;
 $light:       #eee;
@@ -19,12 +11,14 @@ $clear-mint:  #ABE7C3;
 $white-green: #d0f3df;
 
 // Elements
-$sidebar:         $dark-green;
-$headings:        $white-green;
-$background:      $light-green;
-$sidebar-text:    $clear-mint;
-$content-text:    $clear-mint;
-$background-post: $dark-green;
+$links:             $white-green;
+$sidebar:           $dark-green;
+$headings:          $white-green;
+$background:        $light-green;
+$sidebar-text:      $clear-mint;
+$content-text:      $clear-mint;
+$background-post:   $dark-green;
+$background-border: $light-green;
 
 body {
   color: $sidebar-text;
@@ -35,13 +29,27 @@ body {
   color: $sidebar-text;
 }
 
+p.social a{
+  color: $links;
+}
+
+a {
+  color: $links;
+}
+
+p > a:hover {
+  color: $links;
+  border-bottom: dotted 1px $links;
+  text-decoration: none;
+}
+
 .content-column.white-background {
   background: $background;
 }
 
 .content-column.white-background-page {
   background: $background-post;
-  border: $light-green 20px solid;
+  border: $background-border 20px solid;
 }
 
  h1,  h2,  h3,  h4,  h5,  h6,
