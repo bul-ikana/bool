@@ -1,48 +1,21 @@
 ---
 title: "Hi"
 date: 2018-05-08T13:54:36-05:00
-draft: true
+draft: false
+image: "/headers/me.png"
 showonlyimage: false
-image: "kirby.jpg"
+weight: 1
 ---
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+I am **Hugo Aguirre**. This is a showcase of some of my work. 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+I am a **full stack software developer, engineer and craftsman** from Puebla, Mexico. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I have been developing software since 2009, when I started coding _profesionally_ on ActionScript 3.0 (yeah, Flash) on my old Presario 2200. I started coding as a hobby and as school assignments a bit earlier, but nothing serious aside some projects made on Visual Basic 6.0. Nowadays, I develop on several languages, frameworks, and platforms, choosing the best tool for the task at hand. You can see some of them in the projects on this site.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Aside from coding, I am also a Software Engineer, so it is often my responsibility managing technical projects, choosing the best stack for each of them, defining standards for the team, and ensuring the quality of everything that is done and delivered.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Outside software, I enjoy videogames a lot. Pokémon is of my favorite games as you may have noticed. I also like to read about epistemology. Ultimately, developing software is also a matter of understanding knowledge.
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
-
-{{< highlight css >}}
-div.ex1 {
-    overflow: scroll;
-}
-
-div.ex2 {
-    overflow: hidden;
-}
-
-div.ex3 {
-    overflow: auto;
-}
-
-div.ex4 {
-    overflow: visible;
-}
-{{< / highlight >}}
+Somethimes I go as _bool_ or _bul_, you can call me that. Hugo is fine too. Thank you for visiting my site. I hope you find something interesting.
