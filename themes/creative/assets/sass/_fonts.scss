@@ -1,0 +1,25 @@
+// Fonts
+$lato:    "Lato", "Roboto", Helvetica, Arial, sans-serif;
+$roboto:  "Roboto", Helvetica, Arial, sans-serif;
+
+.sidebar-p {
+  font-family: $lato;
+}
+
+.box-masonry-text p {
+  font-family: $lato;
+}
+
+.box-masonry h4 a {
+  font-family: $roboto;
+}
+
+ h1,  h2,  h3,  h4,  h5,  h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $lato;
+}
+
+.content-column-content p,
+.content-column-content li {
+  font-family: $lato;
+}
