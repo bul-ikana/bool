@@ -19,11 +19,12 @@ $clear-mint:  #ABE7C3;
 $white-green: #d0f3df;
 
 // Elements
-$sidebar:       $dark-green;
-$headings:      $white-green;
-$background:    $light-green;
-$sidebar-text:  $mint;
-$content-text:  $clear-mint;
+$sidebar:         $dark-green;
+$headings:        $white-green;
+$background:      $light-green;
+$sidebar-text:    $clear-mint;
+$content-text:    $clear-mint;
+$background-post: $dark-green;
 
 body {
   color: $sidebar-text;
@@ -38,6 +39,11 @@ body {
   background: $background;
 }
 
+.content-column.white-background-page {
+  background: $background-post;
+  border: $light-green 20px solid;
+}
+
  h1,  h2,  h3,  h4,  h5,  h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   color: $headings;
@@ -45,5 +51,5 @@ body {
 
 .content-column-content p,
 .content-column-content li {
-  color: $clear-mint;
+  color: $content-text;
 }
