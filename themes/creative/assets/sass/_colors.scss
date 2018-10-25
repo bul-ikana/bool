@@ -20,6 +20,7 @@ $white-green: #d0f3df;
 
 // Elements
 $sidebar:       $dark-green;
+$headings:      $white-green;
 $background:    $light-green;
 $sidebar-text:  $mint;
 $content-text:  $clear-mint;
@@ -35,6 +36,11 @@ body {
 
 .content-column.white-background {
   background: $background;
+}
+
+ h1,  h2,  h3,  h4,  h5,  h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: $headings;
 }
 
 .content-column-content p,
